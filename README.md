@@ -1,4 +1,4 @@
-### My name is Rajesh Jayaswal and Here is what I'm working on! 👋
+### My name is Rajesh Jayaswal and here is what I'm working on! 👋
 
 - 🔭 I’m currently working on Swift and Objective-C
 - 🌱 I’m currently learning SwiftUI

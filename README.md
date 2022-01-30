@@ -5,4 +5,3 @@
 - 🤔 I’m looking for help with using advanced debugging tool
 - 💬 Ask me about Swift, Objective-C, and MVC.   
 - 😄 Pronouns: He/Him/His
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajeshJayaswl)](https://github.com/anuraghazra/github-readme-stats)
